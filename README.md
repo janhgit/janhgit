@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @janhgit
-- 👀 I’m interested in discord bots
-- 🌱 I’m currently learning discord.js and phython 
-- 💞️ I’m looking to collaborate on everything:)
+im Jan and i like discord.js:)
 
 
 <!---
