@@ -1,4 +1,4 @@
-<h1 align="center">hallo ich bin jan</h1>
+<h1 align="center">hallo ich bin Jan</h1>
 <h3 align="center">Ich komme aus de und arbeite haupsätzlich mit Js und HTML/CSS</h3>
 
 - gerade arbeite ich and einem Discord Bot welcher später mit API'S kommunizieren soll [https://github.com/janhgit/discord.js-bot-public](https://github.com/janhgit/discord.js-bot-public)
