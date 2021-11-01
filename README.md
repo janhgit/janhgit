@@ -1,5 +1,5 @@
-<h1 align="center">HEY! i am Jan</h1>
-<h3 align="center">I am a web developer from germany</h3>
+<h1 align="center">HEY! I am Jan</h1>
+<h3 align="center">I am a web developer from Germany</h3>
 
 - 🔭 I’m currently working on [BDC](https://github.com/janhgit/bdc)
 
