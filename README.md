@@ -1,7 +1,7 @@
 <h1 align="center">HEY! I am Jan</h1>
 <h3 align="center">I am a web developer from Germany</h3>
 
-- 🔭 I’m currently working on [BDC](https://github.com/janhgit/bdc)
+- 🔭 I’m currently working on [A Private school project](https://github.com/janhgit/hbg-plan)
 
 - 🌱 I’m currently learning **Vue and React**
 
